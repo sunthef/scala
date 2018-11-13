@@ -8,6 +8,6 @@ object CaseClassDemo {
     println(a.id)
     println(a.name)  
 
-  }
+  }   
 
 }
