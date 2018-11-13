@@ -6,7 +6,7 @@ object CaseClassDemo {
     println(a)
     println(a.hashCode())
     println(a.id)
-    println(a.name)
+    println(a.name)  
 
   }
 
